@@ -36,5 +36,6 @@ public class Main {
         Person person2 = (Person) Person.class.getConstructors()[1].newInstance("Serega",33);
         System.out.println(person2.getName());
 
+
     }
 }
